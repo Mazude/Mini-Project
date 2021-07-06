@@ -10,13 +10,7 @@ Display All
 For demostration the data is stored in 'mydb.dat'
 The default login id - 256000 and Password - 12345
 Cost and Features
-S.No.	Features	Cost (Rs.)
-1	Secured Login	0
-2	Add Entry	0
-3	Search	0
-4	Modify	0
-5	Delete	0
-6	Display All	0
+
 Defining our System
 This is demo Database Management System. On execution the system requires from the use the login credential comprising of a unique Id and Password. On providing the correct Id and Password the operations to the database are then displayed and allowed by the program else it quits in receiving wrong information.
 
