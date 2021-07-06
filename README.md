@@ -18,6 +18,6 @@
 |`2_Architecture`|Behavioural and Structural UML Diagrams|
 |`3_Implementation`|All code and documentation|
 |`4_TestPlanAndOutput`|Documents with test plans and procedures and Output|
-|`5_Report`|Documentation of whole project|
+|`5_Report`|Documentation for Project Evaluation at LTTS|
 |`6_ImagesAndVideos`|Code Execution Images and Videos|
 
