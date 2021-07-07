@@ -1,2 +1,1 @@
-# MP-ltts
-Mini project for Step-In LTTS
+#Mini Project Student Database Management System

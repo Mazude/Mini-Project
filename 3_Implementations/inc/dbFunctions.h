@@ -1,13 +1,3 @@
-/**
- * @file dbFucntions.h
- * @author Animesh Srivastava (animeshs1798@gmail.com)
- * @brief Database Applications with 5 Operations
- * @version 0.1
- * @date 2021-04-10
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 
 #ifndef __DB_FUNCTIONS_H__
 #define __DB_FUNCTIONS_H__
