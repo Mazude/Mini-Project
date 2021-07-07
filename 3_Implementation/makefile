@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = DatabaseManagement
+PROJECT_NAME = StudentDatabaseManagement
 
 # Output directory
 BUILD = build
