@@ -7,6 +7,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/255a97b0e1e644f19f945238bed4088c)](https://www.codacy.com/gh/Mazude/Mini-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mazude/Mini-Project&amp;utm_campaign=Badge_Grade)
 [![Unit testing](https://github.com/Mazude/Mini-Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Mazude/Mini-Project/actions/workflows/unit-test.yml)
 [![Build](https://github.com/Mazude/Mini-Project/actions/workflows/c-build.yml/badge.svg)](https://github.com/Mazude/Mini-Project/actions/workflows/c-build.yml)
+[![Git Inspector](https://github.com/Mazude/Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Mazude/Mini-Project/actions/workflows/gitinspector.yml)
 
 # Student Database Management System
 
