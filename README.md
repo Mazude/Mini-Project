@@ -11,14 +11,14 @@
 https://www.code-inspector.com/project/24949/score/svg
 https://www.code-inspector.com/project/24949/status/svg
 
-# Student Database Management System
+# Employee Database Management System
 
 
 
-* Mini project for Step-In LTTS
+* Mini project for Step-In Program for L&T Technology Services
 * Run the makefile through the terminal.
 * On program execution it will ask for id and password. 
-* For demonstration purposes the id is TBD (256000) and pass TBD - (12345)
+* For demonstration purposes the id is 256000 and password 12345
 * These can be changed in the buildCred() function in the source file.
 
 # Folder Structure
