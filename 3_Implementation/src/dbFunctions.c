@@ -58,7 +58,7 @@ void readEntry(entryFormat *entry){
     printf("Enter Employee-ID (Numeric) - ");
     scanf("%d", &entry -> id);
     printf("Enter Phone Number (10-digit Numeric)- ");
-    scanf("%ld", &entry -> phoneNumber);
+    scanf("%lld", &entry -> phoneNumber);
     printf("Enter Joining Year (4-digit Numeric) - ");
     scanf("%d", &entry -> joinYear);
     printf("Enter salary (Numeric) - ");
@@ -126,7 +126,7 @@ int modify(FILE* filename, int id){
                 case 3:
                 {
                     printf("Enter the new Phone Number - ");
-                    scanf("%ld", &temp.phoneNumber);
+                    scanf("%lld", &temp.phoneNumber);
                     break;
                 }
                 case 4:
@@ -173,7 +173,7 @@ int displayAll(FILE* filename){
 void display(entryFormat temp){
     printf("\nID - %d\n", temp.id);
     printf("Name - %s\n", temp.name);
-    printf("Ph. Number - %ld\n", temp.phoneNumber);
+    printf("Ph. Number - %lld\n", temp.phoneNumber);
     printf("Salary - %d\n", temp.salary);
     printf("Join Year - %d\n", temp.joinYear);
 }
