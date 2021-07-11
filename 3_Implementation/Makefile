@@ -50,6 +50,12 @@ test:$(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
 
+memcheck:
+	valgrind ./$(TEST_OUTPUT)
+
+staticcheck:
+	cppcheck --enable=all -iunity .
+
 # Remove all the built files, invoke by `make clean`
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
