@@ -3,8 +3,8 @@
 
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Codacy|Git Inspector|Code-inspector-score|code-inspector-status|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+[![Code Quality - Cppcheck](https://github.com/Mazude/Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Mazude/Mini-Project/actions/workflows/cppcheck.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/255a97b0e1e644f19f945238bed4088c)](https://www.codacy.com/gh/Mazude/Mini-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mazude/Mini-Project&amp;utm_campaign=Badge_Grade)
-
 # Student Database Management System
 
 
