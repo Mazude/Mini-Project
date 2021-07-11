@@ -51,6 +51,7 @@ test:$(BUILD)
 	./$(TEST_OUTPUT)
 
 memcheck:
+	chmod 777 ./$(TEST_OUTPUT)
 	valgrind ./$(TEST_OUTPUT)
 
 staticcheck:
