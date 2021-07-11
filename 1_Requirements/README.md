@@ -2,7 +2,7 @@
 
 ## Introduction
 
-1. This is a demo Student Database Management System
+1. This is a demo Employee Database Management System
 2. Secured using login id and password
 3. Allows operations such as
    - Add data
@@ -26,7 +26,7 @@
 
 ## Defining our System
 
-This is demo Student Database Management System. On execution the system requires from the use the login credential comprising of a unique Id and Password. On providing the correct Id and Password the operations to the database are then displayed and allowed by the program else it quits in receiving wrong information.
+This is demo Employee Database Management System. On execution the system requires from the use the login credential comprising of a unique Id and Password. On providing the correct Id and Password the operations to the database are then displayed and allowed by the program else it quits in receiving wrong information.
 
 The menu displays options to add, delete, modify, search and display.
 
