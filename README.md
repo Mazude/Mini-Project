@@ -1,4 +1,8 @@
 # Mini-Project
+# SDLC Activity Based Learning
+
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Codacy|Git Inspector|Code-inspector-score|code-inspector-status|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 # Student Database Management System
 
