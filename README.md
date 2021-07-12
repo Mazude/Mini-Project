@@ -12,7 +12,7 @@
 * Mini project for Step-In Program for L&T Technology Services
 * Run the makefile through the terminal.
 * On program execution it will ask for id and password. 
-* For demonstration purposes the id is 256000 and password 12345
+* For demonstration purposes the id is 625000 and password 54321@lt
 * These can be changed in the buildCred() function in the source file.
 
 # Folder Structure
