@@ -1,4 +1,5 @@
 
+
 #include "dbFunctions.h"
 
 void buildCred(){
@@ -8,8 +9,8 @@ void buildCred(){
         exit(0);
     }
     creds cred;
-    strcpy(cred.logid, "256000");
-    strcpy(cred.password, "12345");
+    strcpy(cred.logid, "625000");
+    strcpy(cred.password, "54321@lt");
     fwrite(&cred, sizeof(creds), 1, file);
     fclose(file);
     file = NULL;

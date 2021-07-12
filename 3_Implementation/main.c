@@ -21,7 +21,7 @@ int main(){
     buildCred();
 
     clr;
-    printf("\n\t\t\t   Welcome to THE DATABASE.");
+    printf("\n\t\t\t   Welcome to THE EMPLOYEE DATABASE.");
     printf("\n\t\tPlease enter LoginID and Password to continue .....\n\n\t\t\tLoginID - \t");
     scanf("%s", login);
     printf("\t\t\tPassword - \t");
