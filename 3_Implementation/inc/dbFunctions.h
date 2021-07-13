@@ -10,7 +10,7 @@
 
 typedef struct{
     int id;
-    long int phoneNumber;
+    long long int phoneNumber;
     int salary;
     int joinYear;
     char name[20];
