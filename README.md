@@ -1,5 +1,4 @@
-# Mini-Project
-# SDLC Activity Based Learning
+# Mini-Project-SDLC Activity Based Learning
 # Employee Database Management System
 
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Codacy|Git Inspector|Code-inspector-score|code-inspector-status|
