@@ -10,7 +10,7 @@
  */
 
 
-#define clr system("clear")
+#define clr system //("clc")
 #include "dbFunctions.h"
 
 
