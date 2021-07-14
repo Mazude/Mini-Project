@@ -30,9 +30,9 @@ This is demo Employee Database Management System. On execution the system requir
 
 The menu displays options to add, delete, modify, search and display.
 
-1. **Add -** Allows addition of a new student entry into the database with a unique id.
-2. **Delete -** Allows deletion of a particular student entry by a given id.
-3. **Modify -** Allows modification of a particular field of the student entry by id.
+1. **Add -** Allows addition of a new employee entry into the database with a unique id.
+2. **Delete -** Allows deletion of a particular entry by a given id.
+3. **Modify -** Allows modification of a particular field of the  entry by id.
 4. **Search -** For searching if an entry is present or not.
 5. **Display -** To display all the entries present in the database.
 
