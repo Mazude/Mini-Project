@@ -1,5 +1,6 @@
 # Mini-Project
 # SDLC Activity Based Learning
+# Employee Database Management System
 
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Codacy|Git Inspector|Code-inspector-score|code-inspector-status|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -9,7 +10,7 @@
 
 
 
-* Mini project for Step-In Program for L&T Technology Services
+* Mini project for Step-In Program for L&T Technology Services.
 * Run the makefile through the terminal.
 * On program execution it will ask for id and password. 
 * For demonstration purposes the id is 625000 and password 54321@lt
