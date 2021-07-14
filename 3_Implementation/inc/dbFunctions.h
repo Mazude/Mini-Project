@@ -1,4 +1,13 @@
-
+/**
+ * @file dbFunctions.h
+ * @author Debarpan Mazumder (mazumderdebarpan@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-07-14
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 
 #ifndef __DB_FUNCTIONS_H__
 #define __DB_FUNCTIONS_H__

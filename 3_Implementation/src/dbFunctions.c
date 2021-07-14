@@ -1,9 +1,9 @@
 /**
  * @file dbFunctions.c
- * @author your name (you@domain.com)
+ * @author Debarpan Mazumder (mazumderdebarpan@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-07-13
+ * @date 2021-07-14
  * 
  * @copyright Copyright (c) 2021
  * 
