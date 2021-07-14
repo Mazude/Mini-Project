@@ -37,7 +37,7 @@ The menu displays options to add, delete, modify, search and display.
 5. **Display -** To display all the entries present in the database.
 
 ## SWOT Analysis
-
+![SWOT Analysis ](https://user-images.githubusercontent.com/69196622/125666108-278fe6eb-90cb-424a-bc21-ff2376f8892b.jpg)
 
 
 ## 4 W's and 1 H
